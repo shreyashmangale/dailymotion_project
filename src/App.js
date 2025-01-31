@@ -6,7 +6,6 @@ import Signup from './pages/Signup';
 import Single from './pages/Single';
 import Search from './pages/Search';
 import Watchlist from './pages/Watchlist';
-import ErrorBoundary from './Errorboundry/ErrorBoundry';
 
 function App() {
   return (
